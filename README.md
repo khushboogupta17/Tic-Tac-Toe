@@ -3,7 +3,7 @@ It is Player vs AI Tic tac toe built on minimax algorithm.Here first we have a s
 You can find the video here 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=Shn_yGX2g8A">
-         <img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/Builds/SS_3.png" style="width:100%;">
+         <img src="https://github.com/khushboogupta17/Tic-Tac-Toe/tree/main/Assets/SS_1.png" style="width:100%;">
       </a>
 </div>
 <p>
