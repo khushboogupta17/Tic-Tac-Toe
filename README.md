@@ -7,8 +7,8 @@ You can find the video here
       </a>
 </div>
 <p>
-<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSBuilding.png" width="20%" height="20%">
-<img src="https://github.com/khushboogupta17/Beverage-Marketing-AR-app/blob/main/BeverageMarketing/SSCoffee.png" width="20%" height="20%">
+<img src=""https://github.com/khushboogupta17/Tic-Tac-Toe/blob/main/Assets/SS_2.png" width="20%" height="20%">
+<img src=""https://github.com/khushboogupta17/Tic-Tac-Toe/blob/main/Assets/SS_3.png" width="20%" height="20%">
 </p>
 
 # Technologies Used
