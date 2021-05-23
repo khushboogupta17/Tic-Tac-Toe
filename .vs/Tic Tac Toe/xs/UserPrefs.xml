@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D0007EE5-A69F-B9CC-92D6-6965199DB3AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIView.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="198" Column="39" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameEventListener.cs" />
+      <File FileName="Assets/Scripts/GameEvent.cs" />
+      <File FileName="Assets/Scripts/StateChanger.cs" />
+      <File FileName="Assets/Scripts/ChanceDecider.cs" />
+      <File FileName="Assets/Scripts/PlayerData.cs" />
+      <File FileName="Assets/Scripts/UIView.cs" Line="59" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tic Tac Toe" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UIView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="19fb91bf-dc4a-4188-8e7a-9ebd28cb5f23" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
