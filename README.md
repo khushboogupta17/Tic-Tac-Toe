@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-It is Player vs AI Tic tac toe built on minimax algorithm.Here first we have a spinner screen which decides which player should go first, then after 3 games will be played winner be decided. If any player wins that games 1 gets added to their score, and if it's tie 0.5 is added to both of their scores. To keep game fair there is a chance decider in the beginning which decides who will play first.
+It is Player vs AI Tic tac toe built on minimax algorithm.It starts with a spinner screen where first turn is decided wherever spinner lands. This leads to game screen where on playing 3 games winner will be decided. With every win, score of 1 gets added in the Winner's bag and if it's a tie then both the players are awarded with 0.5 each.
 You can find the video here 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=Shn_yGX2g8A">
