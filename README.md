@@ -2,7 +2,7 @@
 It is Player vs AI Tic tac toe built on minimax algorithm.It starts with a spinner screen where first turn is decided wherever spinner lands. This leads to game screen where on playing 3 games winner will be decided. With every win, score of 1 gets added in the Winner's bag and if it's a tie then both the players are awarded with 0.5 each.
 You can find the video here 
 <div align="left">
-      <a href="https://www.youtube.com/watch?v=Shn_yGX2g8A">
+      <a href="https://www.youtube.com/watch?v=YG30ZMTfKCo">
          <img src="https://github.com/khushboogupta17/Tic-Tac-Toe/blob/main/Assets/SS_1.png" style="width:100%;">
       </a>
 </div>
